@@ -1,0 +1,572 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lar",
+				"large-up"
+			],
+			[
+				"wod",
+				"word-break"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"gue",
+				"guessedHeight"
+			],
+			[
+				"outt",
+				"outerHeight"
+			],
+			[
+				"win",
+				"windowBottom"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"comm",
+				"communityId"
+			],
+			[
+				"ps",
+				"pswpElement"
+			],
+			[
+				"pic_re",
+				"pic_real_width"
+			],
+			[
+				"preven",
+				"preventDefault"
+			],
+			[
+				"me",
+				"medium-up"
+			],
+			[
+				"la",
+				"lazyLoadImages"
+			],
+			[
+				"bacgk",
+				"background-color"
+			],
+			[
+				"avi",
+				"available_units"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/vince/Bin/workbench/electron/electro/package.json",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		},
+		{
+			"file": "/Users/vince/Bin/workbench/electron/electro/main.js",
+			"settings":
+			{
+				"buffer_size": 1374,
+				"line_ending": "Unix",
+				"name": "'use strict';"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 95.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"DIS",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vince/Bin/workbench/electron/electro"
+	],
+	"file_history":
+	[
+		"/Users/vince/Bin/workbench/electron/electro/index.html",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/home_designs.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/modules/_functions.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/modules/_mixins.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/home_design_details.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/pages/community.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/quickdeliveryhome.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/toll.community.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/tabs/tabs.home_designs.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/partials/_community_homedesigns.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/partials/_community_maps.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/photo_gallery_model.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/index.jsp",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/tabs/tabs.photo_gallery.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/modules/_variables.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/partials/_community_floorplans.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/model/quickdelivery.jsp",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/photo_gallery.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/model/index.jsp",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/floorplans.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/floorplans_details.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/partials/_community_details.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/model_fader.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/tabs/tabs.qdh.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/model_description.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/maps.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/community_details.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/toll.maps_directions.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/comm_multimedia_links.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/tabs/tabs.maps.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/model_details.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/guess_image_size_js.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/guess_image_size_js.jspf.jsp",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/guess_image_size_js.jsp",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/partials/_community_photogallery.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/partials/_community_siteplans.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/tabs/tabs.siteplans.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/tbFader.jquery.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/design_your_own.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/site_plans.jspf",
+		"/Users/vince/Desktop/lazyLoadRemoveSRC.js",
+		"/Users/vince/Library/Application Support/Sublime Text 3/Packages/User/SoDaReloaded Dark.sublime-theme",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/toll.common.js",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/pages/_gallery.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/includes/globals.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/js/siteplans.js",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/js/scripts.js",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/includes/helper_class.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/siteplans.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/index.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/Gulpfile.js",
+		"/Users/vince/Work/39900 - Boilerplate Refinement/boilerplate notes.txt",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/gallery.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/pages/_models.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/models.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/pages/_home.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/pages/_siteplans.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/community.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/partials/photoswipe/_main.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/partials/photoswipe/_default-skin.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/partials/_tb_photoswipe.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/.htaccess",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/includes/head_include.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/includes/header.php",
+		"/Users/vince/WebTeam/com.tollcareercenter.www/web/trunk/.htaccess",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/includes/foot_include.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/modules/_variables.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/partials/_header.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/padtest.html",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/styles.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/modules/_all.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/partials/_base.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/modules/_mixins.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/pages/_gridpage.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/grid.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/includes/footer.php",
+		"/Users/vince/Bin/workbench/PhotoSwipe/README.md",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/data/comm_data.json",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/partials/_grid.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/assets/scss/partials/_footer.scss",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/about.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/sitemap.xml",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/privacy.php",
+		"/Users/vince/WebTeam/common/web/boilerplate_templates/v2/web/legal.php",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/master_community.jsp",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/comm_blurb.jspf",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/pages/home.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/toll.homepage.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/tabs/tabs.available-units.js",
+		"/Users/vince/WebTeam/com.400pas.www/web/trunk/js/floor-plan-viewer.js",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/css/scss/partials/_community_available_units.scss",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/WEB-INF/jsp/main/community/include/available_units.jspf",
+		"/Users/vince/Work/37622 - City Living/37622 - Notes.txt",
+		"/Users/vince/WebTeam/com.400pas.www/web/trunk/js/scripts.js",
+		"/Users/vince/Work/37622 - City Living/37622 - City Living.sublime-project",
+		"/Users/vince/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vince/WebTeam/com.tollbrothers.www/server/ROOT/trunk/WebRoot/tb/js/tabs/tabs.dyoh.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/vince/Bin/workbench/PhotoSwipe"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"preventDefault()",
+			"preventDefault",
+			"acord-titl",
+			"-410",
+			"acord-title",
+			"odd",
+			"selector-wrap",
+			"gradient",
+			"modelFade-Item",
+			"multi-toggle",
+			"list",
+			"sort",
+			"model-controls",
+			"community-container",
+			"commTabs",
+			"model-details",
+			"h5",
+			"console",
+			"tabViewEvent",
+			"myTab",
+			"trackonlyclick",
+			"push",
+			"floorplan",
+			"addClass(\"active",
+			"addClass('active",
+			"active",
+			"--%>\n",
+			"floorplan",
+			"trackOnlyClick",
+			"tabViewEvent",
+			"trackOnlyClick",
+			"trackonlyclick",
+			"js-jump-to-tab",
+			"commTabs",
+			"model-controls",
+			"sortMode",
+			"js-multi-toggle",
+			"tab-content",
+			"console.log",
+			"tabViewEvent",
+			"mapViewEvent",
+			"45px",
+			"geo",
+			"clearDrivingDirections",
+			"loadingdir",
+			"Please",
+			"Mi",
+			"interactive",
+			"loadingdir",
+			"input_error",
+			"removeError",
+			"clear",
+			"console",
+			"push",
+			"history",
+			"start",
+			"val",
+			"btnSubmit",
+			"scrollTopActiveTabContent",
+			"select",
+			"getTabTop",
+			"js-show-map",
+			"google",
+			".commTabs",
+			"dontscrollonhash",
+			"checkScrollPosition",
+			"type",
+			"nth",
+			"learn-more {",
+			"text-sh",
+			"model-name",
+			"trigger",
+			"model",
+			"long",
+			"scrollIntoView",
+			"map_canvasdirections",
+			"drivingmap",
+			"start",
+			"removeErrorMessage",
+			"outside",
+			"btnEmail",
+			"comm_map",
+			"outsideholder",
+			"getDirect",
+			"right",
+			"amenit",
+			"checkScro",
+			"selectTab",
+			"checkScrol",
+			"isWs",
+			"selectTab",
+			"checkScrol",
+			"trigger",
+			"onIn",
+			"scrollTop",
+			"selectTab",
+			"getTabTop",
+			"selectTab",
+			"scrollTopActiveTabContent",
+			"selectTab",
+			"checkScroll",
+			"trigger",
+			"scrollTopActiveTabContent",
+			"selectTab",
+			"scrollTopActiveTabContent",
+			"slideUp",
+			"activeTab",
+			"selectTab",
+			"id=\"siteplan\"",
+			"#siteplan",
+			"theTabs",
+			"tab-container",
+			"!!!",
+			"scaleModelImages",
+			"special-callou",
+			"walkthroughImg",
+			"console.",
+			"reloadRows",
+			".isot",
+			".tab-con",
+			"trigger",
+			"intializePhotoGal",
+			"isElementVisible",
+			"checkScrollPosition",
+			".scroll",
+			"reloadRows",
+			"isot",
+			"trans"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/vince/Bin/workbench/electron/electro/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/vince/Bin/workbench/electron/electro/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1374,
+								1374
+							]
+						],
+						"settings":
+						{
+							"auto_name": "'use strict';",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "electron-app-test.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,12 @@
+html,
+body {
+    -webkit-app-region: drag;
+    background-color: #e1e1e1;
+}
+
+.button-sound {
+    -webkit-app-region: no-drag;
+}
+
+
+
