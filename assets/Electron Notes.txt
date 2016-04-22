@@ -17,3 +17,9 @@ electron-packager . --platform=mas --version=0.37.7 --arch=all --overwrite --ico
 
 
 
+ps aux | pgrep "Sublime Text" returns just the PID
+
+ps -ef | awk '{print $9}'
+
+
+ps -axc -o comm
