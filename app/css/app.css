@@ -1,10 +1,29 @@
 html,
 body {
-    -webkit-app-region: drag;
+    margin: 0;
+    padding: 0;
     background-color: #e1e1e1;
 }
 
-.button-sound {
+
+header {
+	-webkit-app-region: drag;
+	background-color: #999999;
+	display: inline-block;
+	width: 100%;
+}
+
+header p {
+	display: inline-block;
+	margin-left: 14px 10px;
+}
+
+button.close {
+	margin: 5px;
+	float: right;
+}
+
+.nodrag {
     -webkit-app-region: no-drag;
 }
 

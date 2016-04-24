@@ -9,8 +9,6 @@ const Menu = electron.Menu;
 const Tray = electron.Tray;
 
 
-
-
 const BrowserWindow = electron.BrowserWindow;  // Module to create native browser window.
 
 // Keep a global reference of the window object, if you don't, the window will
