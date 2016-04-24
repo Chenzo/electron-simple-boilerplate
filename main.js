@@ -64,6 +64,8 @@ app.on('ready', function(){
 });
 
 
+
+
 ipc.on('close-main-window', function () {
     app.quit();
 });

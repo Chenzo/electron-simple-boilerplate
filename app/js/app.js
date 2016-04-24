@@ -28,7 +28,6 @@ function parseProcesses(procs) {
 	
 }
 
-
 //OSX also has TOP and top -o cpu
 //exec("ps -ax", function(error, stdout, stderr){ parseProcesses(stdout); });
 //exec("ps aux", function(error, stdout, stderr){ parseProcesses(stdout); });
