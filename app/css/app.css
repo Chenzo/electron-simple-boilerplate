@@ -3,11 +3,11 @@ body {
     margin: 0;
     padding: 0;
     background-color: #e1e1e1;
+    -webkit-app-region: drag;
 }
 
 
 header {
-	-webkit-app-region: drag;
 	background-color: #999999;
 	display: inline-block;
 	width: 100%;
@@ -23,8 +23,12 @@ button.close {
 	float: right;
 }
 
+.draggable {
+	
+}
+
 .nodrag {
-    -webkit-app-region: no-drag;
+    /* -webkit-app-region: no-drag; */
 }
 
 

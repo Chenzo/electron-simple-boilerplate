@@ -30,7 +30,12 @@ app.on('window-all-closed', function() {
 // initialization and is ready to create browser windows.
 app.on('ready', function() {
   // Create the browser window.
-  mainWindow = new BrowserWindow({width: 800, height: 600, frame: false});
+  mainWindow = new BrowserWindow({
+    width: 800,
+    height: 600,
+    frame: false,
+    title: "Electron BoilerPlate"
+  });
 
   // and load the index.html of the app.
   mainWindow.loadURL('file://' + __dirname + '/app/index.html');
@@ -48,6 +53,12 @@ app.on('ready', function() {
 });
 
 
+
+var tester = function() {
+  console.log("HAHAHAHAHA...");
+}
+
+
 var appIcon = null;
 app.on('ready', function(){
   appIcon = new Tray(__dirname + '/img/tray_icon.png');
@@ -55,15 +66,25 @@ app.on('ready', function(){
     { label: 'Item1', type: 'radio' },
     { label: 'Item2', type: 'radio' },
     { label: 'Item3', type: 'radio', checked: true },
-    { label: 'Item4', type: 'radio' }
+    { label: 'Item4', type: 'radio' },
+    { label: 'Minimize', 
+      accelerator: 'Command+M',
+      click: function() { tester(); } }
   ]);
-  appIcon.setToolTip('This is my application.');
+  appIcon.setToolTip('Electron BoilerPlate App');
   appIcon.setContextMenu(contextMenu);
 });
 
 
 
+ipc.on('minimize-window', function () {
+    console.log("THIS IS IT!!!!");
+});
 
 ipc.on('close-main-window', function () {
     app.quit();
 });
+
+
+
+
